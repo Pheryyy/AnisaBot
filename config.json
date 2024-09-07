@@ -1,0 +1,6 @@
+{
+    "hetzner_token": "YOUR_HETZNER_API_TOKEN",
+    "telegram_bot_token": "YOUR_TELEGRAM_BOT_API_TOKEN",
+    "admin_user_id": "YOUR_ADMIN_USER_ID",
+    "domain": "YOUR_DOMAIN"
+}
